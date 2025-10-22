@@ -119,7 +119,7 @@ Adherence to these conventions is mandatory to ensure consistency, improve reada
 
 ### Stored Procedure & Script Naming
 
-- **Structure:** `[action]_[target_object]_[layer]`  
+- **Structure:** `pcd_[action]_[target_object]_[layer]`  
   Example: `merge_dim_customer_silver`, `load_fct_transactions_silver`
 
 ---
