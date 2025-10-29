@@ -108,8 +108,8 @@ Adherence to these conventions is mandatory to ensure consistency, improve reada
 - **General Rule:** Use descriptive, singular nouns in `snake_case`.  
   Example: `first_name`, `account_balance`, `effective_date`
 
-- **Surrogate Keys:** `[table_name_key]`  
-  Example: `customer_key`
+- **Surrogate Keys:** `[table_name]_sk`  
+  Example: `customer_sk`
 
 - **Technical Columns:**  
   - `created_timestamp`  
